@@ -4499,5 +4499,5 @@ local Credits = window:AddTab("Credits")
 
 Credits:AddLabel("paid version by Johan")
 Credits:AddLabel("Script Made by Fresade80:")
-Credits:AddLabel("Johan JX7, Max JX7, Junior JX7, Karma JX7 | JX7 ON TOP")
+Credits:AddLabel("Johan JX7, Max JX7,| JX7 ON TOP")
 Credits:AddLabel("Actualización del script en Hallowen Op 👹🎃🔪")
